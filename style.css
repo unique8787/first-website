@@ -1,0 +1,101 @@
+body {
+  font-family: "Merriweather", serif;
+  text-decoration: none;
+  margin: 0;
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+.logoname {
+  font-family: "Merriweather", serif;
+  font-size: 30;
+}
+#leftRight {
+  display: flex;
+  border-radius: 5px;
+  border: 2px solid rgba(55, 46, 46,0.1);
+  padding: 30px 100px 100px 30px;
+  margin: 10px 250px 10px 250px;
+
+  
+}
+.container {
+  font: 200;
+  font-size: smaller;
+
+}
+.content {
+  font: 100;
+  font-size: smaller;
+  
+  
+}
+.two {
+  font-family: "Open Sans", normal;
+}
+#right{
+  padding-top: 10px;
+}
+.logoname {
+  font-size: 50px;
+  font-weight: bold;
+}
+#skills{
+  padding-top: 61.5px;
+
+}
+.resume {
+  /* background-color: white; */
+}
+
+header {
+  /* text-align: center; */
+  margin-bottom: 20px;
+}
+header h1 {
+  /* margin: 0; */
+}
+section {
+  margin-bottom: 20px;
+}
+.logoname {
+  border-bottom: 2px solid #333;
+  padding-bottom: 5px;
+  
+}
+.title{
+  font-family: "Open Sans", serif;
+  font-weight: bold;
+  color: #2079c7;
+  font-size: 0.4cm;
+}
+.merri {
+  font-family: "Merriweather", serif;
+  font-weight: bold;
+  font-size: 0.5cm;
+  
+
+}
+.many {
+  font-family: "Open Sans", serif;
+  font-size:0.4cm;
+  padding: auto;
+
+}
+
+.job,
+.education,
+.project {
+  margin-bottom: 10px;
+  text-decoration: none;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+li {
+  margin-bottom: 5px;
+}
+.para {
+  font-family: "Merriweather", normal;
+  font-size:0.4cm;
+}
